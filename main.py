@@ -22,12 +22,12 @@ def send_conversion_event(email, phone):
     'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
     'Accept-Encoding': 'gzip, deflate',
     'Accept-Language': 'en 
-        "Content-Type": "application/json"
+       
     }
     
     user_data = {
-        "em": hash_data(rk8290023@gmail.com),
-        "ph": hash_data(+918290023136)
+        "em": hash_data(),
+        "ph": hash_data()
     }
     
     event_data = {
